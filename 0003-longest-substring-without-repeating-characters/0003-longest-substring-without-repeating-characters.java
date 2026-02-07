@@ -4,12 +4,13 @@ class Solution {
         if(n==0) return 0;
         int mlen = 1, left = 0, right = 0;
         HashSet<Character> set = new HashSet<>();
+        HashMap<Character, Integer> map = new HashMap<>();
         while(right<n){
-            while(set.contains(s.charAt(right))){
-                set.remove(s.charAt(left));
+            if(map.containsKey(s.charAt(right)) && map.get(s.charAt(right))>=left){
+                left = map.get(s.charAt(right));
                 left++;
             }
-            set.add(s.charAt(right));
+            map.put(s.charAt(right), right);
             mlen = Math.max(mlen, right-left+1);
             right++;
         }
