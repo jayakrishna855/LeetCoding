@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jayakrishna855/LeetCoding/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayakrishna855/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jayakrishna855/LeetCoding/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayakrishna855/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
