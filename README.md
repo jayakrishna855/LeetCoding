@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
+| [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayakrishna855/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jayakrishna855/LeetCoding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 ## Sliding Window
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
+| [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
