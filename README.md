@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jayakrishna855/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jayakrishna855/LeetCoding/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0219-contains-duplicate-ii) |
+| [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jayakrishna855/LeetCoding/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jayakrishna855/LeetCoding/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jayakrishna855/LeetCoding/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/jayakrishna855/LeetCoding/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
