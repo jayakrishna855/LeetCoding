@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayakrishna855/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishna855/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishna855/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/jayakrishna855/LeetCoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jayakrishna855/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jayakrishna855/LeetCoding/tree/master/0146-lru-cache) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
