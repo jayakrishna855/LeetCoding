@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayakrishna855/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishna855/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jayakrishna855/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0100-same-tree) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 ## Binary Search Tree
