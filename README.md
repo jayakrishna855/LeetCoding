@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/jayakrishna855/LeetCoding/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayakrishna855/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
