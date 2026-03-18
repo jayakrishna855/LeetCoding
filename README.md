@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishna855/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishna855/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/jayakrishna855/LeetCoding/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 ## Queue
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jayakrishna855/LeetCoding/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayakrishna855/LeetCoding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jayakrishna855/LeetCoding/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/jayakrishna855/LeetCoding/tree/master/0513-find-bottom-left-tree-value) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jayakrishna855/LeetCoding/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
