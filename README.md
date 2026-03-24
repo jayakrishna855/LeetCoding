@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jayakrishna855/LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/jayakrishna855/LeetCoding/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -361,9 +364,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jayakrishna855/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jayakrishna855/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
