@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jayakrishna855/LeetCoding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishna855/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jayakrishna855/LeetCoding/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 ## Divide and Conquer
 |  |
