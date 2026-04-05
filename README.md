@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jayakrishna855/LeetCoding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jayakrishna855/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jayakrishna855/LeetCoding/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jayakrishna855/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishna855/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
