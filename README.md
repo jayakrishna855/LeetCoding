@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jayakrishna855/LeetCoding/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
