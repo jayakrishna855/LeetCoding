@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayakrishna855/LeetCoding/tree/master/0417-pacific-atlantic-water-flow) |
+| [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jayakrishna855/LeetCoding/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Bucket Sort
 |  |
