@@ -1,7 +1,7 @@
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
-        res = 0
-        for i in range(len(columnTitle)):
-            res = res * 26 + ord(columnTitle[i]) - ord('A') + 1
-        return res
+        result = 0
+        for i, char in enumerate(reversed(columnTitle)):
+            result += (ord(char) - ord('A') + 1) * 26 ** i
+        return result
         
