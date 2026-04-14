@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jayakrishna855/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishna855/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayakrishna855/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jayakrishna855/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayakrishna855/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jayakrishna855/LeetCoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayakrishna855/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
