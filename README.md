@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jayakrishna855/LeetCoding/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quickselect
 |  |
 | ------- |
