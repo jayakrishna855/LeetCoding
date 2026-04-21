@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayakrishna855/LeetCoding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/jayakrishna855/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayakrishna855/LeetCoding/tree/master/0133-clone-graph) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayakrishna855/LeetCoding/tree/master/0145-binary-tree-postorder-traversal) |
