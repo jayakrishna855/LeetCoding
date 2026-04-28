@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jayakrishna855/LeetCoding/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3905-multi-source-flood-fill](https://github.com/jayakrishna855/LeetCoding/tree/master/3905-multi-source-flood-fill) |
 ## Queue
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quickselect
