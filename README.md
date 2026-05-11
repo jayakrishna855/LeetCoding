@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishna855/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jayakrishna855/LeetCoding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
