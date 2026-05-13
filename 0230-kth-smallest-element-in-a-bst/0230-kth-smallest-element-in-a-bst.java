@@ -31,9 +31,30 @@ class Solution {
         int right = inorder(root.right, k);
         return right;
     }
+    public int iterative(TreeNode root, int k){
+        Stack<TreeNode> st = new Stack<>();
+        while(true){
+            if(root!=null){
+                st.push(root);
+                root = root.left;
+            }
+            else{
+                if(st.isEmpty()) break;
+                root = st.pop();
+                k--;
+                if(k==0){
+                    return root.val;
+                }
+                root = root.right;
+            }
+        }
+        return root.val;
+
+    }
     public int kthSmallest(TreeNode root, int k) {
         // findkthSmallest(root, k);
-        return inorder(root, k);
+        // return inorder(root, k);
+        return iterative(root, k);
         //return this.ans;
     }
 }
