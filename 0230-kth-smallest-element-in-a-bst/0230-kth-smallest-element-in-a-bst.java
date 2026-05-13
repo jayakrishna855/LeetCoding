@@ -51,10 +51,40 @@ class Solution {
         return root.val;
 
     }
+    public int morrisTraversal(TreeNode root, int k){
+        TreeNode curr = root;
+        while(curr!=null){
+            if(curr.left == null){
+                k--;
+                if(k == 0){
+                    return curr.val;
+                }
+                curr = curr.right;
+            }
+            else{
+                TreeNode prev = curr.left;
+                while(prev.right!=null && prev.right!=curr){
+                    prev = prev.right;
+                }
+                if(prev.right == null){
+                    prev.right = curr;
+                    curr = curr.left;
+                }
+                else{
+                    prev.right = null;
+                    k--;
+                    if(k == 0) return curr.val;
+                    curr = curr.right;
+                }
+            }
+        }
+        return -1;
+    }
     public int kthSmallest(TreeNode root, int k) {
         // findkthSmallest(root, k);
         // return inorder(root, k);
-        return iterative(root, k);
+        // return iterative(root, k);
+        return morrisTraversal(root, k);
         //return this.ans;
     }
 }
