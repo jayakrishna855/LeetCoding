@@ -14,23 +14,35 @@
  * }
  */
 class Solution {
-    public TreeNode buildTree(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, Map<Integer,Integer> inMap){
-        if(inStart > inEnd || preStart > preEnd ) return null;
-        TreeNode root = new TreeNode(preorder[preStart]);
-        int inRoot = inMap.get(root.val);
-        int numsLeft = inRoot - inStart;
-        root.left = buildTree(preorder, preStart+1, preStart+numsLeft, inorder, inStart, inRoot, inMap);
-        root.right = buildTree(preorder, preStart+numsLeft+1, preEnd, inorder, inRoot+1, inEnd, inMap);
+    int preOrderIdx;
+    // public TreeNode buildTree(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, Map<Integer,Integer> inMap){
+    //     if(inStart > inEnd || preStart > preEnd ) return null;
+    //     TreeNode root = new TreeNode(preorder[preStart]);
+    //     int inRoot = inMap.get(root.val);
+    //     int numsLeft = inRoot - inStart;
+    //     root.left = buildTree(preorder, preStart+1, preStart+numsLeft, inorder, inStart, inRoot, inMap);
+    //     root.right = buildTree(preorder, preStart+numsLeft+1, preEnd, inorder, inRoot+1, inEnd, inMap);
+    //     return root;
+    // }
+
+    public TreeNode build(int[] preorder, int inStart,int inEnd, Map<Integer, Integer> inMap){
+        if(inStart > inEnd) return null;
+        TreeNode root = new TreeNode(preorder[preOrderIdx++]);
+        int rootIdx = inMap.get(root.val);
+        root.left = build(preorder, inStart, rootIdx-1,inMap);
+        root.right = build(preorder, rootIdx+1, inEnd, inMap);
         return root;
     }
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         Map<Integer,Integer> inMap = new HashMap<>();;
         int i = 0;
         for(int node: inorder){
             inMap.put(node, i++);
         }
-        TreeNode root = buildTree(preorder, 0, preorder.length-1, 
-                                inorder, 0, inorder.length-1, inMap);
+        // TreeNode root = buildTree(preorder, 0, preorder.length-1, 
+        //                         inorder, 0, inorder.length-1, inMap);
+        TreeNode root = build(preorder, 0, inorder.length-1, inMap);
         return root;
     }
 }
