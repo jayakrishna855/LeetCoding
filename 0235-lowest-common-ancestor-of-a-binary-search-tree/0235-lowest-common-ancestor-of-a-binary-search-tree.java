@@ -26,7 +26,17 @@ class Solution {
         
         return null;
     }
+    TreeNode recursive(TreeNode root, TreeNode p, TreeNode q){
+        if(p.val<root.val && q.val<root.val){
+            return recursive(root.left, p, q);
+        }
+        if(p.val>root.val && q.val>root.val){
+            return recursive(root.right, p, q);
+        }
+        return root;
+    }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return iterative(root, p, q);
+        // return iterative(root, p, q);
+        return recursive(root, p, q);
     }
 }
