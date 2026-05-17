@@ -14,30 +14,14 @@
  * }
  */
 class Solution {
-    public void sumNumbers(TreeNode root, List<Integer> numbers, StringBuilder number)
-    {
-        if(root == null) return;
-        number.append(root.val);
+    public int sumNums(TreeNode root, String number){
+        if(root == null) return 0;
         if(root.left == null && root.right == null){
-            numbers.add(Integer.parseInt(number.toString()));
+            return Integer.parseInt(number+root.val);
         }
-        else{
-            sumNumbers(root.left,numbers,number);
-            sumNumbers(root.right,numbers,number);
-        }
-        
-        if(number.length()>0)number.deleteCharAt(number.length()-1);
-
+        return sumNums(root.left, number+root.val) + sumNums(root.right, number+root.val);
     }
     public int sumNumbers(TreeNode root) {
-        List<Integer> numbers = new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-        if(root ==null) return 0;
-        sumNumbers(root,numbers,sb);
-        int ans = 0;
-        for(int i=0;i<numbers.size();i++){
-            ans+=numbers.get(i);
-        }
-        return ans;
+        return sumNums(root, "");
     }
 }
