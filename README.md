@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jayakrishna855/LeetCoding/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
