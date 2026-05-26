@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jayakrishna855/LeetCoding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/jayakrishna855/LeetCoding/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jayakrishna855/LeetCoding/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayakrishna855/LeetCoding/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/jayakrishna855/LeetCoding/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/jayakrishna855/LeetCoding/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayakrishna855/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jayakrishna855/LeetCoding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/jayakrishna855/LeetCoding/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jayakrishna855/LeetCoding/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jayakrishna855/LeetCoding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/jayakrishna855/LeetCoding/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/jayakrishna855/LeetCoding/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/jayakrishna855/LeetCoding/tree/master/0802-find-eventual-safe-states) |
