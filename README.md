@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayakrishna855/LeetCoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/jayakrishna855/LeetCoding/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jayakrishna855/LeetCoding/tree/master/0041-first-missing-positive) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/jayakrishna855/LeetCoding/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jayakrishna855/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0143-reorder-list) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jayakrishna855/LeetCoding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jayakrishna855/LeetCoding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jayakrishna855/LeetCoding/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
