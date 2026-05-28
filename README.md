@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
+| [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jayakrishna855/LeetCoding/tree/master/1584-min-cost-to-connect-all-points) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
+| [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jayakrishna855/LeetCoding/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
+| [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
+| [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
