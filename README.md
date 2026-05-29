@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jayakrishna855/LeetCoding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3093-longest-common-suffix-queries) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/jayakrishna855/LeetCoding/tree/master/3905-multi-source-flood-fill) |
 ## Two Pointers
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
