@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jayakrishna855/LeetCoding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3093-longest-common-suffix-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3904-smallest-stable-index-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
+| [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -595,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jayakrishna855/LeetCoding/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
