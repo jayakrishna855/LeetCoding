@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jayakrishna855/LeetCoding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
