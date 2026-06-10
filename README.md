@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/jayakrishna855/LeetCoding/tree/master/3905-multi-source-flood-fill) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
