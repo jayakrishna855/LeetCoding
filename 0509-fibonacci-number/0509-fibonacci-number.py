@@ -1,5 +1,9 @@
-class Solution:
-    def fib(self, n: int) -> int:
+class Solution(object):
+    def fib(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         if n <= 1:
             return n
         
