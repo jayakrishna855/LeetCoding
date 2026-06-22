@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/jayakrishna855/LeetCoding/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/jayakrishna855/LeetCoding/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/jayakrishna855/LeetCoding/tree/master/1189-maximum-number-of-balloons) |
 ## Memoization
 |  |
 | ------- |
