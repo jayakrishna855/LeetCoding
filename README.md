@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jayakrishna855/LeetCoding/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishna855/LeetCoding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishna855/LeetCoding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishna855/LeetCoding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
