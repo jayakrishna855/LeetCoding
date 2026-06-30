@@ -1,15 +1,14 @@
 class Solution:
     def halveArray(self, nums: List[int]) -> int:
-        total = sum(nums)
-        half = total / 2
-        ops = 0
-        heap = [-float(x) for x in nums]
-        heapify(heap)
-        while total > half:
-            ops += 1
-            ntop = heap[0]
-            ndiv = ntop / 2
-            total -= -ndiv
-            heapreplace(heap, ndiv)
-        return ops
+        target = sum(nums) / 2
+        heap = [-n / 2 for n in nums]
+        heapq.heapify(heap)
+        halved = 0
+        num_ops = 0
+        while halved < target:
+            num_ops += 1
+            drop = -heapq.heappop(heap)
+            halved += drop
+            heapq.heappush(heap, -drop / 2)
+        return num_ops
         
