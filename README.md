@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jayakrishna855/LeetCoding/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jayakrishna855/LeetCoding/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jayakrishna855/LeetCoding/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishna855/LeetCoding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
