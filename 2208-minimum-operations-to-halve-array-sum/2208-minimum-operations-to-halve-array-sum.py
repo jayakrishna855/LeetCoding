@@ -1,18 +1,16 @@
 class Solution:
     def halveArray(self, nums: List[int]) -> int:
-        sum_value = sum(nums)
-        heap = []
+        totalSum, currSum, steps = (0, 0, 0)
         for i in range(len(nums)):
-            heapq.heappush(heap, -nums[i])
-        count = 0
-        sum_half = 0
-        while True:
-            num = -heapq.heappop(heap)
-            num /= 2
-            sum_half += num
-            heapq.heappush(heap, -num)
-            count += 1
-            if sum_half * 2 >= sum_value:
-                break
-        return count
+            totalSum += nums[i]
+        if totalSum == 0:
+            return 0
+        heap = [-num for num in nums]
+        heapq.heapify(heap)
+        while currSum < totalSum / 2.0:
+            greatest = abs(heapq.heappop(heap)) / 2.0
+            currSum += greatest
+            heapq.heappush(heap, -abs(greatest))
+            steps += 1
+        return steps
         
