@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayakrishna855/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishna855/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jayakrishna855/LeetCoding/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/jayakrishna855/LeetCoding/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishna855/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jayakrishna855/LeetCoding/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jayakrishna855/LeetCoding/tree/master/1584-min-cost-to-connect-all-points) |
 | [1905-count-sub-islands](https://github.com/jayakrishna855/LeetCoding/tree/master/1905-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishna855/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jayakrishna855/LeetCoding/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayakrishna855/LeetCoding/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jayakrishna855/LeetCoding/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jayakrishna855/LeetCoding/tree/master/1584-min-cost-to-connect-all-points) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jayakrishna855/LeetCoding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jayakrishna855/LeetCoding/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishna855/LeetCoding/tree/master/3620-network-recovery-pathways) |
