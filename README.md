@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishna855/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/jayakrishna855/LeetCoding/tree/master/0764-largest-plus-sign) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishna855/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/jayakrishna855/LeetCoding/tree/master/0764-largest-plus-sign) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayakrishna855/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayakrishna855/LeetCoding/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
