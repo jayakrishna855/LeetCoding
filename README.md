@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/jayakrishna855/LeetCoding/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayakrishna855/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/jayakrishna855/LeetCoding/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/jayakrishna855/LeetCoding/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jayakrishna855/LeetCoding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
