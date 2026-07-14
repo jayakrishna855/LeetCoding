@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayakrishna855/LeetCoding/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jayakrishna855/LeetCoding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jayakrishna855/LeetCoding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/jayakrishna855/LeetCoding/tree/master/3620-network-recovery-pathways) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jayakrishna855/LeetCoding/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -777,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
