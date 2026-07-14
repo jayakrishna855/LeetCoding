@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/jayakrishna855/LeetCoding/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/jayakrishna855/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jayakrishna855/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayakrishna855/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jayakrishna855/LeetCoding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jayakrishna855/LeetCoding/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/jayakrishna855/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/jayakrishna855/LeetCoding/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayakrishna855/LeetCoding/tree/master/0424-longest-repeating-character-replacement) |
