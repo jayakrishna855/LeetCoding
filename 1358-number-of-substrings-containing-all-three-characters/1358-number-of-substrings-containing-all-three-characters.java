@@ -8,7 +8,19 @@ class Solution {
     }
     public int numberOfSubstrings(String s) {
         int[] count = new int[3];
-        int i = 0, n = s.length(), ans = 0;
+        int i = 0, n = s.length(), ans = 0, j=0;
+
+        while(j<n){
+            count[s.charAt(j)-97]+=1;
+            while(count[0]>0 && count[1]>0 && count[2]>0){
+                ans+=(n-j);
+                count[s.charAt(i)-97]-=1;
+                i++;
+            }
+            j++;
+        }
+
+        return ans;
 
         // while(j<n){
         //     if(hasAll3s(count)){
@@ -37,14 +49,7 @@ class Solution {
         //     count[s.charAt(i)-97]-=1;
         //     i++;
         // }
-        for(int j=0;j<n;j++){
-            count[s.charAt(j)-'a']+=1;
-            while(count[0]>0 && count[1]>0 && count[2]>0){
-                ans+=(n-j);
-                count[s.charAt(i)-'a']-=1;
-                i++;
-            }
-        }
-        return ans;
+        
+
     }
 }
