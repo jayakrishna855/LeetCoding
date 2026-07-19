@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/jayakrishna855/LeetCoding/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/jayakrishna855/LeetCoding/tree/master/1383-maximum-performance-of-a-team) |
 | [1833-maximum-ice-cream-bars](https://github.com/jayakrishna855/LeetCoding/tree/master/1833-maximum-ice-cream-bars) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jayakrishna855/LeetCoding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jayakrishna855/LeetCoding/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jayakrishna855/LeetCoding/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jayakrishna855/LeetCoding/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayakrishna855/LeetCoding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/jayakrishna855/LeetCoding/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
