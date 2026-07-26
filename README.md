@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/jayakrishna855/LeetCoding/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/jayakrishna855/LeetCoding/tree/master/0735-asteroid-collision) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jayakrishna855/LeetCoding/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jayakrishna855/LeetCoding/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/jayakrishna855/LeetCoding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1331-rank-transform-of-an-array) |
