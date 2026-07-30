@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jayakrishna855/LeetCoding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/jayakrishna855/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jayakrishna855/LeetCoding/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3248-snake-in-matrix](https://github.com/jayakrishna855/LeetCoding/tree/master/3248-snake-in-matrix) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jayakrishna855/LeetCoding/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
