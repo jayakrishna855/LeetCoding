@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayakrishna855/LeetCoding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jayakrishna855/LeetCoding/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jayakrishna855/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jayakrishna855/LeetCoding/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/0518-coin-change-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayakrishna855/LeetCoding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jayakrishna855/LeetCoding/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jayakrishna855/LeetCoding/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -853,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jayakrishna855/LeetCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jayakrishna855/LeetCoding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jayakrishna855/LeetCoding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
