@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishna855/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/jayakrishna855/LeetCoding/tree/master/0764-largest-plus-sign) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jayakrishna855/LeetCoding/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/jayakrishna855/LeetCoding/tree/master/1046-last-stone-weight) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jayakrishna855/LeetCoding/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jayakrishna855/LeetCoding/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/jayakrishna855/LeetCoding/tree/master/0764-largest-plus-sign) |
+| [0877-stone-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/jayakrishna855/LeetCoding/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jayakrishna855/LeetCoding/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jayakrishna855/LeetCoding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jayakrishna855/LeetCoding/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jayakrishna855/LeetCoding/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayakrishna855/LeetCoding/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -861,4 +864,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jayakrishna855/LeetCoding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jayakrishna855/LeetCoding/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
