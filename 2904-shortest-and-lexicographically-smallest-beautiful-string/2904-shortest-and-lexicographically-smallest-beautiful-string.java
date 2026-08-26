@@ -1,0 +1,26 @@
+class Solution {
+    public String shortestBeautifulSubstring(String s, int k) {
+       int left = 0, right = 0, ones = 0;
+       String ans = "";
+       for(right=0;right<s.length();right++){
+         ones+= (s.charAt(right)=='1')? 1:0;
+         while(ones>k){
+            ones-= (s.charAt(left)=='1')? 1:0;
+            left++;
+         }
+         if(ones == k){
+            while(s.charAt(left) == '0'){
+                left++;
+            }  
+
+            String current = s.substring(left,right+1);
+            if(ans.equals("") || ans.length()>current.length() 
+            ||  (current.length() == ans.length()
+                        && current.compareTo(ans) < 0)){
+                ans = current;
+            }
+         }
+       }
+       return ans;
+    }
+}
