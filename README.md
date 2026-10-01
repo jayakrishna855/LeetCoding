@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/jayakrishna855/LeetCoding/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/jayakrishna855/LeetCoding/tree/master/2574-left-and-right-sum-differences) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/jayakrishna855/LeetCoding/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jayakrishna855/LeetCoding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jayakrishna855/LeetCoding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jayakrishna855/LeetCoding/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/jayakrishna855/LeetCoding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jayakrishna855/LeetCoding/tree/master/0875-koko-eating-bananas) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/jayakrishna855/LeetCoding/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jayakrishna855/LeetCoding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/jayakrishna855/LeetCoding/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jayakrishna855/LeetCoding/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/jayakrishna855/LeetCoding/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/jayakrishna855/LeetCoding/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jayakrishna855/LeetCoding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jayakrishna855/LeetCoding/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/jayakrishna855/LeetCoding/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/jayakrishna855/LeetCoding/tree/master/2574-left-and-right-sum-differences) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/jayakrishna855/LeetCoding/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jayakrishna855/LeetCoding/tree/master/3737-count-subarrays-with-majority-element-i) |
