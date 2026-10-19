@@ -1,36 +1,36 @@
 class Solution {
-    boolean tFound(int[] count1, int[] count2){
-        for(int i=0;i<128;i++){
-            if(count1[i]>0 && count1[i]>count2[i]) return false;
-        }
-        return true;
-    }
     public String minWindow(String s, String t) {
-        if(t.length()>s.length()) return "";
-        
-        int[] count1 = new int[128];
-        int[] count2 = new int[128];
-
-        int left = 0, right = 0;
-        int startIndex = 0, minLen = Integer.MAX_VALUE;
-        
-        for(char c: t.toCharArray()){
-            count1[c]+=1;
+        if(s.length() == 0 || t.length() == 0) return "";
+        HashMap<Character, Integer> dicT = new HashMap<>();
+        for(char ch: t.toCharArray()){
+            dicT.put(ch, dicT.getOrDefault(ch, 0)+1);
         }
-        
-        while(right<s.length()){
-            count2[s.charAt(right)]++;
-            right++;
-            while(tFound(count1, count2)){
-                if(right - left < minLen){
-                    minLen = right - left;
-                    startIndex = left;
-                }
-                count2[s.charAt(left)]--;
-                left+=1;
+        int required = dicT.size();
+        int right = 0, left = 0, formed = 0;
+        int[] ans = new int[]{-1,0,0};
+        HashMap<Character, Integer> windowCnt = new HashMap<>();
+        while(right < s.length()){
+            char ch = s.charAt(right);
+            windowCnt.put(ch, windowCnt.getOrDefault(ch, 0)+1);
+            if(dicT.containsKey(ch) && dicT.get(ch).intValue() == windowCnt.get(ch).intValue()){
+                formed++;
             }
+            while(left<=right && formed == required){
+                ch = s.charAt(left);
+                if(ans[0] == -1 || (right-left+1)<ans[0]){
+                    ans[0] = right-left+1;
+                    ans[1] = left;
+                    ans[2] = right;
+                }
+                windowCnt.put(ch, windowCnt.get(ch)-1);
+                if(dicT.containsKey(ch) && windowCnt.get(ch).intValue() < dicT.get(ch).intValue()){
+                    formed--;
+                }
+                left++;
+            }
+            right++;
         }
-        
-        return minLen==Integer.MAX_VALUE? "": s.substring(startIndex, startIndex+minLen);
+
+        return (ans[0]==-1)? "": s.substring(ans[1], ans[2]+1);
     }
 }
