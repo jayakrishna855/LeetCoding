@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayakrishna855/LeetCoding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jayakrishna855/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jayakrishna855/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jayakrishna855/LeetCoding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jayakrishna855/LeetCoding/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/jayakrishna855/LeetCoding/tree/master/0036-valid-sudoku) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayakrishna855/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/jayakrishna855/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayakrishna855/LeetCoding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jayakrishna855/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jayakrishna855/LeetCoding/tree/master/0022-generate-parentheses) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jayakrishna855/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/jayakrishna855/LeetCoding/tree/master/0139-word-break) |
 | [3093-longest-common-suffix-queries](https://github.com/jayakrishna855/LeetCoding/tree/master/3093-longest-common-suffix-queries) |
 ## Combinatorics
